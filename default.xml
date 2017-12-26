@@ -511,6 +511,7 @@
   <project path="kernel/zte/s291" name="ravikwow/android_kernel_s291_msm8974"/>
   <project path="vendor/zte/msm8974" name="ravikwow/proprietary_s291"/>
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings"/>
+  <project path="device/qcom/common" name="LineageOS/android_device_qcom_common"/>
 
   <include name="snippets/cm.xml" />
 
