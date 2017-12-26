@@ -507,6 +507,11 @@
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" groups="pdk" remote="aosp" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" remote="aosp" />
 
+  <project path="device/zte/msm8974" name="ravikwow/android_device_s291"/>
+  <project path="kernel/zte/s291" name="ravikwow/android_kernel_s291_msm8974"/>
+  <project path="vendor/zte/msm8974" name="ravikwow/proprietary_s291"/>
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings"/>
+
   <include name="snippets/cm.xml" />
 
 </manifest>
